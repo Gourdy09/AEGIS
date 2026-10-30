@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "show": true,
+  "title": "AEGIS: Wearable Drone Detection & Tracking",
+  "description": "A head-mountable drone detection and tracking prototype built around a Raspberry Pi 5. A camera and computer vision find and follow nearby drones, an IMU compensates for head movement, and a motorized pan/tilt gimbal keeps the target in view. Built as modular ROS 2 packages, currently in active development.",
+  "category": "Robotics & Computer Vision",
+  "tags": [
+    "Raspberry Pi 5",
+    "ROS 2",
+    "Python",
+    "OpenCV",
+    "PyTorch",
+    "Hailo AI HAT+",
+    "ByteTrack",
+    "Computer Vision",
+    "Sensor Fusion",
+    "IMU",
+    "Pan/Tilt Gimbal",
+    "Embedded Systems",
+    "Wearable"
+  ],
+  "featured": true,
+  "content": {
+    "readme": true,
+    "sections": [
+      "1. Project Overview",
+      "2. Current Hardware",
+      "3. Software Stack",
+      "4. ROS 2 Architecture",
+      "6. Development Roadmap"
+    ]
+  },
+  "resources": [
+    { "type": "repo", "title": "Source Code" }
+  ]
+}
