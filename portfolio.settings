@@ -10,14 +10,8 @@
     "Python",
     "OpenCV",
     "PyTorch",
-    "Hailo AI HAT+",
-    "ByteTrack",
     "Computer Vision",
-    "Sensor Fusion",
-    "IMU",
-    "Pan/Tilt Gimbal",
     "Embedded Systems",
-    "Wearable"
   ],
   "featured": true,
   "content": {
